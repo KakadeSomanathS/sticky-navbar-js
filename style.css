@@ -60,3 +60,11 @@ body {
 .navbar.active ul li a {
   color: white;
 }
+.navbar a{
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navbar.active a{
+  color: #fff;
+}
